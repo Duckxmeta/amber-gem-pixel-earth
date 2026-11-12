@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Duck Chaos Farm — 3D Duck Mischief Game",
+      "hasCanvas": false,
+      "bodyTextLen": 269,
+      "bodyTextHash": "1cddeed5d9aee5c011713d6e49a7de021322b1891b1f509351ac89e6fc53d6fa",
+      "bodyTextPrefix": "Hatching the farm… 🔊 Duck Chaos Farm You are a duck. The farm i",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Duck Chaos Farm — 3D Duck Mischief Game",
+      "hasCanvas": false,
+      "bodyTextLen": 86,
+      "bodyTextHash": "b46c84bb9ea8d75cd64f36e7d832dce13b68d18f265125f0d5e904257bcea418",
+      "bodyTextPrefix": "Hatching the farm… 🔊 Duck Chaos Farm You are a duck. The farm i",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
